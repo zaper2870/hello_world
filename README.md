@@ -1,2 +1,4 @@
 # hello_world
-tutorial repository
+tutorial repository 
+
+my name is Jihun Kim
